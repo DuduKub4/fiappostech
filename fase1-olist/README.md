@@ -36,7 +36,8 @@ jupyter nbconvert --to notebook --execute --inplace notebooks/analise_olist.ipyn
 ## Estrutura
 ```
 notebooks/analise_olist.ipynb   análise completa (limpeza → métricas → gráficos)
-reports/figuras/                gráficos exportados
+reports/figuras/                gráficos exportados pelo notebook
+reports/graficos_deck.py        gera os gráficos da apresentação (reports/figuras/deck/), na paleta do deck
 docs/dicionario_dados.md        decisões de qualidade, tipos de variáveis e definições de métricas
 docs/roteiro_video.md           roteiro do vídeo executivo (~3,8 min)
 data/raw/                       CSVs da Olist (não versionados)

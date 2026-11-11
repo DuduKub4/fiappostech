@@ -18,7 +18,7 @@ A receita mensal saiu de 112 mil reais em janeiro de 2017 para quase 1 milhão n
 
 E o que esperar? Testamos quatro formas de prever a receita de maio a agosto de 2018. As que supõem crescimento erraram cerca de 30%; a média dos últimos meses errou só 7%. Sem mudança, a receita segue perto de 850 mil por mês, com pico de 1,2 milhão na Black Friday, e 2018 fecha em cerca de 11 milhões.
 
-## Slide 5: A receita se concentra em poucas categorias e vendedores  (25 palavras)
+## Slide 5: Poucas categorias e vendedores sustentam a receita  (25 palavras)
 
 O negócio também é concentrado: as dez maiores categorias fazem 63% da receita, e os 10% maiores vendedores, dois terços. Poucos parceiros sustentam o resultado.
 
@@ -38,17 +38,17 @@ O custo do atraso: quem recebe no prazo dá nota 4,3. Com 1 a 3 dias de atraso, 
 
 O achado mais importante: de 93 mil clientes, só 3% compraram de novo. E o atraso não explica isso: a recompra é de 2,4% depois de uma entrega atrasada e de 3,0% depois de uma no prazo. Mesmo clientes satisfeitos quase não voltam. Corrigir a entrega protege a marca, mas não resolve a retenção.
 
-## Slide 10: Levar 13 UFs ao nível das demais evitaria cerca de 1.100 atrasos por ano  (45 palavras)
+## Slide 10: Quanto vale corrigir a entrega  (45 palavras)
 
 Quanto vale corrigir? Nos 13 estados críticos o atraso é de 13,6%, contra 6,2% nos demais. Levá-los ao nível dos demais evitaria cerca de 1.100 atrasos por ano, cada um recuperando em média 1,7 ponto de nota. É uma ordem de grandeza, não uma previsão.
 
-## Slide 11: Recomendações: três frentes  (53 palavras)
+## Slide 11: Plano de ação: três frentes com metas mensuráveis  (62 palavras)
 
-Três frentes. Uma: logística regional nos 13 estados críticos, o que também abre espaço para crescer no Nordeste. Duas: metas de prazo para os maiores vendedores. Três: um teste controlado de retenção, com contato pós-compra e cupom de segunda compra. As duas primeiras protegem a nota; a terceira é uma hipótese a validar.
+Três frentes, com metas claras. Uma: logística nos 13 estados críticos, levando o atraso de 13,6% para o nível dos demais, 6,2%. Duas: crescer no Nordeste, que faz 16 pedidos por 100 mil habitantes contra 46 no país, mas só depois de a entrega melhorar. Três: um teste controlado de cupom de segunda compra, para ver se a recompra sai dos 3%.
 
 ## Slide 12: Limites da análise e próximos passos  (53 palavras)
 
 Para ser transparente: receita aqui é valor vendido, não resultado da Olist; a recompra e a previsão usam só 20 meses de histórico; e as notas vêm de quem respondeu. Resumindo: o crescimento parou, o atraso pesa justamente onde há espaço para crescer, e a retenção é o maior espaço de ganho. Obrigado.
 
 ---
-Total: 573 palavras, cerca de 3.8 minutos.
+Total: 582 palavras, cerca de 3.9 minutos.
